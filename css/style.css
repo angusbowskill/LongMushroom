@@ -1,6 +1,6 @@
 .art-container {
     max-width: 1920px;
-    max-height: 1080px;
+    max-height: 8000px;
     width: 100%;
     height: 100%;
     background-color: #252525;
@@ -25,9 +25,149 @@ img {
     height: 100%;
 }
 
+#img0 {
+    width:1920px;
+    height: 9500px;
+    left: 0px;
+    top: 0px;
+}
+
 #img1 {
-    width: 839px;
-    height: 593px;
-    left: 500px;
-    top: 121px;
+    width:1381px;
+    height: 980px;
+    left: 270px;
+    top: 50px;
+}
+
+#img2 {
+    width: 593px;
+    height: 839px;
+    left: 20px;
+    top: 1210px;
+}
+
+#img3 {
+    width: 593px;
+    height: 839px;
+    left: 663px;
+    top: 1210px;
+}
+
+#img4 {
+    width: 593px;
+    height: 839px;
+    left:1306px;
+    top: 1210px;
+}
+
+#img5 {
+    width: 593px;
+    height: 839px;
+    left: 20px;
+    top: 2299px;
+}
+
+#img6 {
+    width: 593px;
+    height: 839px;
+    left: 663px;
+    top: 2299px;
+}
+
+#img7 {
+    width: 593px;
+    height: 839px;
+    left:1306px;
+    top: 2299px;
+}
+
+#img8 {
+    width:1381px;
+    height: 980px;
+    left: 270px;
+    top: 3388px;
+}
+
+#img9 {
+    width: 593px;
+    height: 839px;
+    left: 20px;
+    top: 4477px;
+}
+
+#img10 {
+    width: 593px;
+    height: 839px;
+    left: 663px;
+    top: 4477px;
+}
+
+#img11 {
+    width: 593px;
+    height: 839px;
+    left:1306px;
+    top: 4477px;
+}
+
+#img12 {
+    width: 593px;
+    height: 839px;
+    left: 20px;
+    top: 5566px;
+}
+
+#img13 {
+    width: 593px;
+    height: 839px;
+    left: 663px;
+    top: 5566px;
+}
+
+#img14 {
+    width: 593px;
+    height: 839px;
+    left:1306px;
+    top: 5566px;
+}
+
+#img15 {
+    width: 593px;
+    height: 839px;
+    left: 20px;
+    top: 6655px;
+}
+
+#img16 {
+    width: 593px;
+    height: 839px;
+    left: 663px;
+    top: 6655px;
+}
+
+#img17 {
+    width: 593px;
+    height: 839px;
+    left:1306px;
+    top: 6655px;
+}
+
+#img18 {
+    width: 593px;
+    height: 839px;
+    left: 20px;
+    top: 7744px;
+}
+
+#img19 {
+    width: 593px;
+    height: 839px;
+    left: 663px;
+    top: 7744px;
+}
+
+#img20 {
+    width: 593px;
+    height: 839px;
+    left:1306px;
+    top: 7744px;
 }
