@@ -27,7 +27,7 @@ img {
 
 #img0 {
     width:1920px;
-    height: 9500px;
+    height: 9850px;
     left: 0px;
     top: 0px;
 }
@@ -170,4 +170,25 @@ img {
     height: 839px;
     left:1306px;
     top: 7744px;
+}
+
+#img21 {
+    width: 593px;
+    height: 839px;
+    left: 20px;
+    top: 8833px;
+}
+
+#img22 {
+    width: 593px;
+    height: 839px;
+    left: 663px;
+    top: 8833px;
+}
+
+#img23 {
+    width: 593px;
+    height: 839px;
+    left:1306px;
+    top: 8833px;
 }
